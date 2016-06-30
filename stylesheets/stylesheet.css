@@ -5,6 +5,20 @@ by Jason Costello, @jsncostello
 
 @import url(github-light.css);
 
+.nav ul {
+    list-style: none;
+    padding-top: 1em;
+}
+
+.nav ul li {
+    display: inline;
+    padding-right: 2em;
+}
+
+.nav ul li a {
+    color: #0086b3;
+}
+
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
