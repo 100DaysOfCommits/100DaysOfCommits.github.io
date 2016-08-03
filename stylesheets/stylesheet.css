@@ -291,6 +291,21 @@ Full-Width Styles
   padding: 20px 10px;
   margin: 0 auto;
 }
+#logo_banner {
+  display: block;
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  top:0;
+  left: 10px;
+  z-index: 10;
+  height: 48px;
+  color: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
 
 #forkme_banner {
   display: block;
@@ -330,12 +345,22 @@ Full-Width Styles
 
 #project_tagline {
   color: #fff;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 300;
   background: none;
   text-shadow: #111 0px 0px 10px;
   padding-left: 20px;
 }
+
+#page_title {
+  color: #fff;
+  font-size: 38px;
+  font-weight: 300;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+  padding-top: 20px;
+}
+
 
 #downloads {
   position: absolute;
