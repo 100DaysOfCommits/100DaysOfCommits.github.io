@@ -1,6 +1,7 @@
 /*******************************************************************************
-Slate Theme for GitHub Pages
-by Jason Costello, @jsncostello
+Updated Theme for 100DaysOfCommits
+By Kara Carrell
+(Original theme by Jason Costello, @jsncostello)
 *******************************************************************************/
 
 @import url(github-light.css);
@@ -16,7 +17,7 @@ by Jason Costello, @jsncostello
 }
 
 .nav ul li a {
-    color: #0086b3;
+    color: #7ac7c4;
 }
 
 .participants {
@@ -122,7 +123,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #f73859;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -306,12 +307,12 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+  background: #384259;
+  background: -moz-linear-gradient(top, #373737, #384259);
+  background: -webkit-linear-gradient(top, #373737, #384259);
+  background: -ms-linear-gradient(top, #373737, #384259);
+  background: -o-linear-gradient(top, #373737, #384259);
+  background: linear-gradient(top, #373737, #384259);
 }
 
 #header_wrap .inner {
@@ -384,7 +385,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #384259;
 }
 
 
