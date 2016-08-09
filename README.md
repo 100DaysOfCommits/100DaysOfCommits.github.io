@@ -64,6 +64,6 @@ and an array of projects that you're contributing to. Separate these fields usin
 
 Example:
 
-Jane | [@NotARealTwitter](https://twitter.com/NotARealTwitter) | [NotARealGithub](https://github.com/not_a_real_github) | (ex: \[[Awesome Men](https://github.com/alison985/awesome-men), [Callback Women](https://github.com/conference-opportunities/conference-opportunities)\])
+Jane | [@NotARealTwitter](https://twitter.com/NotARealTwitter) | [NotARealGithub](https://github.com/not_a_real_github) | \[[Awesome Men](https://github.com/alison985/awesome-men), [Callback Women](https://github.com/conference-opportunities/conference-opportunities)\]
 
 Open up your pull request and we'll review it soon.
