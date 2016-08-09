@@ -2,10 +2,10 @@
 
 This github page acts as a home base for the #100DaysOfCommits project.
 
-#100DaysOfCommits is a 100 day long marathon where people commit to working on open source projects *not related to work*. The goal is to
+\#100DaysOfCommits is a 100 day long marathon where people commit to working on open source projects *not related to work*. The goal is to
 create sustainable habits, grow as programmers, and give back to the open source community.
 
-#100DoC started as a Chicago PyLadies project but has grown to include several local partners.
+\#100DoC started as a Chicago PyLadies project but has grown to include several local partners.
 
 - [Chicago PyLadies](https://twitter.com/PyLadiesChicago)
 - [SheNomads](http://www.shenomadsretreat.com/learn-to-code.html)
