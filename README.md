@@ -26,7 +26,7 @@ please contact [Jess](100DaysOfCommits@gmail.com) via email.
 
 # What should go in this repo?
 
-- Meeup / Google Hangout announcements
+- Meetup / Google Hangout announcements
 - Projects seeking contributors
 - Projects seeking mentors
 - Projects seeking reviewers
